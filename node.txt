@@ -1,0 +1,28 @@
+SUMMARY OF BACKEND
+
+Node.js is a javascrip runtime that let you run javascript ouside the browser
+
+also learn with a framework you'd handle raw HTTP
+
+Express
+
+express focuses on the minimum web framework for node.js that make the building servers and APIS much simpler.
+
+
+
+Setting Up Project 
+we also setup our project envirnment by installing the node.js with the npm install express and also 
+using the npm init -y.
+
+HTTP METHODS AND CRUDS
+this deals with the methods their meaning and exmples
+
+
+
+
+the the rest focuses on the routes , sending json responses, handling post request that read data sent in a post request body you need middle response body
+the HTTP status codes which tells the client what happen ,
+
+
+
+And lastly we looked at testing APIs with tools like Postman, thunder client etc.
